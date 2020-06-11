@@ -67,7 +67,7 @@ Environment solve in 428 episodes!	Average Score: 13.04
 
 ## Conclusions
 
-DQN performs reasonably well to achieve the goal. The model can be further improved and enhanced 
+DQN performs reasonably well to achieve the goal. The model can be further improved and enhanced by using
 
 * Double DQN
 * Prioritized Experience Replay
