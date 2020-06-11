@@ -1,4 +1,4 @@
-# Navigation Project report
+# Navigation: Project Report
 
 
 ## Introduction
