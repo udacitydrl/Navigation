@@ -14,7 +14,7 @@ The state space has 37 dimensions and contains the agent's velocity, along with 
 - `2` - turn left
 - `3` - turn right
 
-The project requires that the agent must get an average score of +13 over 100 consecutive episodes. To meet the requirement, deep Q-learning (DQN) (Hassabis et al. Human-level control through deep reinforcement learning. Nature February 2015) together with experience replay and fixed Q targets are implemented. The model successfully solves the environment after 422 episodes.
+The project requires that the agent must get an average score of +13 over 100 consecutive episodes. To meet the requirement, deep Q-learning (DQN) (Hassabis et al. Human-level control through deep reinforcement learning. Nature February 2015) together with experience replay and fixed Q targets are implemented. The model successfully solves the environment after 428 episodes.
 
 ## The Model
 
@@ -53,7 +53,7 @@ The model runs reasonably fast even only using CPU. The result with hidden sizes
 
 ![scores](scores.png)
 
-The average scores per 100 episodes as shown as follows. The model solve the environment after 428 episodes. The agent receives average score more than 13 over the last 100 episode.  
+The average scores per 100 episodes showns as follows. The model solves the environment after 428 episodes. The agent receives average score more than 13 over the last 100 episode.  
 
 ```
 Episode 100	Average Score: 0.34
