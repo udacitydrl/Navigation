@@ -3,7 +3,7 @@
 
 ## Introduction
 
-The goal of the project is to train an agent to navigate a virtual large world and collect as many yellow bananas as possible while avoiding blue bananas. 
+The goal of the project is to train an agent to navigate a virtual large square world and collect as many yellow bananas as possible while avoiding blue bananas. 
 
 The project environment provided by Udacity is similar to, but not identical to the [Banana Collector](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#banana-collector) environment on the Unity ML-Agents GitHub page.
 
